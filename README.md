@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IlikeJay
 - 👀 I’m interested in Jay
-- 🌱 I’m currently learning Android Jetpack
+- 🌱 I’m currently learning Jay's songs
 - 💞️ I’m looking to collaborate on Jay
 - 📫 How to reach me ...
 
